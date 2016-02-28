@@ -1,22 +1,20 @@
-title: Strata by HTML5 UP
+title: The Geek Speaks
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
-copyright: Untitled
+  The online home of Robbie Holmes [RobbieTheGeek](http://robbiethegeek.com), this isn't just my site, but yours too.  Please become a collaborator by commenting, connecting and joining the conversation...
+copyright: 2016
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
-disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
-instagram_username:
-pinterest_username:
+disqus_shortname: thegeekspeaksio
+facebook_username: robbiethegeek
+twitter_username: "robbiethegeek"
+linkedin_username: "robbiethegeek"
+instagram_username: robbiethegeek
+pinterest_username: robbiethegeek
 flickr_username:
-github_username:  "#"
+github_username:  "robbiethegeek"
 feed_icon: rss
-email: "#"
+
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
