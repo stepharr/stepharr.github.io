@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leap day...'
-categories: javascript, reactjs, angular2, nodejs
+categories: javascript
 excerpt: 'Leap day, more like leap year...'
 ---
 
