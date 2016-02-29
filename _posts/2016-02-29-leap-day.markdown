@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leap day...'
-categories: javascript
+categories: test
 excerpt: 'Leap day, more like leap year...'
 ---
 
