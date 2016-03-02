@@ -13,5 +13,4 @@ On May 15th of 2015 I moved here to Alexandria, VA but my connection to the tech
 The first technology meetup I attended after moving here was on Monday May 18, 2015 a [NodeDC event](http://www.meetup.com/node-dc/events/221880003/) where when I arrived I met a few more of the organizers including [Juan Caicedo](https://twitter.com/_juancaicedo) and [Daniel Paz-Soldan](https://twitter.com/danpazsoldan).  Within the first 15 minutes of arriving it came up that I just moved to the area from New York, and Juan asked if I was the guy that has been talking to Josh about running NodeSchool's. Less then a month after moving here on June 13, 2015 I was leading a NodeSchool at a [Node Unconference](http://www.meetup.com/Nova-Node/events/222312195/) and since then I have co-hosted and co-organized 8 [NodeSchoolDC](http://nodeschool.io/washingtondc/) events.
 
 
-This is just the beginning of my DC Tech story... I will post the next part later this week...
-  
+This is just the beginning of my DC Tech story... I will post the next part later this week...  
