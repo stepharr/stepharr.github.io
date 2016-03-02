@@ -12,5 +12,6 @@ The first technology meetup I attended after moving here was on Monday May 18, 2
 
 <section class="special"><img src="/images/nodeschooldc-logo.png" /></section>
 
+
 This is just the beginning of my DC Tech story... I will post the next part later this week...
   
