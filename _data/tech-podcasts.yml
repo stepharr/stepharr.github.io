@@ -43,3 +43,13 @@
   itunes: https://itunes.apple.com/us/podcast/turing-incomplete/id886675939
   rss: http://feeds.feedburner.com/Turing-Incomplete
   twitter: turingcool
+- name: JavaScript Air
+  url: http://javascriptair.com/
+  itunes: http://itunes.javascriptair.com/
+  rss: http://audio.javascriptair.com/feed/
+  twitter: JavaScriptAir
+- name: Toolsday
+  url: http://toolsday.io/
+  itunes: https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2
+  rss: http://toolsday.io/feeds/rss.xml
+  twitter: toolsday
