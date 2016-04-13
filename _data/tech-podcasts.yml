@@ -53,3 +53,9 @@
   itunes: https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2
   rss: http://toolsday.io/feeds/rss.xml
   twitter: toolsday
+- name: Front End Happy Hour
+  url: http://frontendhappyhour.com/
+  itunes: https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2
+  rss: http://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss
+  twitter: FrontEndHH
+  
