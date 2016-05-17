@@ -58,4 +58,9 @@
   itunes: https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2
   rss: http://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss
   twitter: FrontEndHH
+- name: Ruby5
+  url: https://ruby5.codeschool.com/
+  itunes: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=327234205
+  rss: https://ruby5.codeschool.com/feed.rss
+  twitter: rubyfive
   
