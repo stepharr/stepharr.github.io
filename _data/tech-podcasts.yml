@@ -63,4 +63,8 @@
   itunes: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=327234205
   rss: https://ruby5.codeschool.com/feed.rss
   twitter: rubyfive
-  
+- name: JS Party
+  url: https://changelog.com/jsparty
+  itunes: https://itunes.apple.com/us/podcast/js-party/id1209616598
+  rss: https://changelog.com/jsparty/feed
+  twitter: changelog  
