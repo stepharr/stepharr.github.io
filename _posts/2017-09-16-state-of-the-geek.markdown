@@ -2,7 +2,7 @@
 layout: post
 title: Geek's life 2017 edition... 
 categories: personal
-excerpt: "I am heading to the Department of Veteran's Affairs to work on http://www.vets.gov ..."
+excerpt: "Lots has happened in the last year and a half..."
 ---
 
 Welcome back, not sure if I am writing that to you or to me.  As always happens to my blogs I am gung ho and revved up when I start it and then it becomes a sad forgotten wasteland.  I'm going to try to rectify that and break this tread, so here we go...
