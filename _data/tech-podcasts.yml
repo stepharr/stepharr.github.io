@@ -43,8 +43,13 @@
   itunes: https://itunes.apple.com/us/podcast/turing-incomplete/id886675939
   rss: http://feeds.feedburner.com/Turing-Incomplete
   twitter: turingcool
-  name: Ruby5
+- name: Ruby5
   url: https://ruby5.codeschool.com/
   itunes: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=327234205
   rss: https://ruby5.codeschool.com/feed.rss
   twitter: rubyfive
+- name: DC Tech Stories
+  url: http://dctechstories.com/
+  itunes: https://itunes.apple.com/us/podcast/dc-tech-stories/id1255302980
+  rss: http://dctechstories.com/feed.xml
+  twitter: DC_techstories
