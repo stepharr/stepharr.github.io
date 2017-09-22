@@ -2,6 +2,7 @@
 layout: post
 title: Geek's life 2017 edition... 
 categories: personal
+image: "/images/view-from-terrace.jpg"
 excerpt: "Lots has happened in the last year and a half..."
 ---
 
