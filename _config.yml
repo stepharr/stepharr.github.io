@@ -1,20 +1,14 @@
-title: The Geek Speaks
-description: >
-  The online home of Robbie Holmes [RobbieTheGeek](http://robbiethegeek.com), this isn't just my site, but yours too.  Please become a collaborator by commenting, connecting and joining the conversation...
-copyright: 2016
+title: stepharr.com
+description: The personal domain of Stephon Harris
+copyright: 2017
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
-disqus_shortname: thegeekspeaksio
-facebook_username: robbiethegeek
-twitter_username: "robbiethegeek"
-linkedin_username: "robbiethegeek"
-instagram_username: robbiethegeek
-pinterest_username: robbiethegeek
-flickr_username:
-github_username:  "robbiethegeek"
+twitter_username: "_stepharr"
+linkedin_username: ""
+github_username:  "stepharr"
 feed_icon: rss
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5

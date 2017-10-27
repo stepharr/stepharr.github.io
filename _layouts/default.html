@@ -11,11 +11,12 @@
     {% include twittercard.html %}
   </head>
 	<body id="top">
-
-		{% include header.html %}
-
+		<!-- {%if page.url == "fullstackfirefighter"%} {% endif %} -->
+		{% include header.html %}		
 		<!-- Main -->
 			<div id="main">
+					<p>	This is the default layout </p>
+				{{ page.url }}
 				{{ content }}
 			</div>
 

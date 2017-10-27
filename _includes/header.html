@@ -1,6 +1,48 @@
 <!-- Header -->
   <header id="header">
-    <a href="{{ site.github.url }}/" class="image avatar"><img src="{{ site.github.url }}/images/avatar.jpg" alt="" /></a>
-    <h1>{{ site.description | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
-    <h3><a href="{{ site.github.url }}/podcasts">Podcasts</a></h3>
+    <a href="{{ site.github.url }}/" class="image avatar"><img id="avatar" src="{{ site.github.url }}/images/avatar.jpg" alt="" /></a>
+    <h1 id="headline"></h1>
+    <div id="uri"></div>
+    {% if page.url == '/' %}
+    <div id="sub-menu">
+      <h2><a href="{{ site.github.url }}/fullstackfirefighter">/codes</a></h2>
+      <h2><a href="{{ site.github.url }}/aworldalone">/travels</a></h2>
+      <h2><a href="{{ site.github.url }}/podcasts">/listens</a></h2>
+      <h2><a href="{{ site.github.url }}/blahblah">/pontificates</a></h2>
+    </div>
+    {% else %}
+      {% include navigation.html %}
+    {% endif %}
+    <script>
+      function getURI() {
+        var node = document.createElement("P");
+        var textnode = document.createTextNode(location.pathname);
+        node.appendChild(textnode);
+        document.getElementById("uri").appendChild(node);
+      }      
+      function setHeadline(description) {
+        var node = document.createElement("P");
+        var textnode = document.createTextNode(description);
+        node.appendChild(textnode);
+        document.getElementById("headline").appendChild(node);
+      }
+      function setBackground(){
+        document.getElementById("header").style.backgroundImage = "url('../images/fire4.jpg')";
+      }
+      function setAvatar() {
+        image = document.getElementById("avatar");
+        image.src = "{{ site.github.url }}/images/fullstack.png";
+      }
+      if (location.pathname == "/fullstackfirefighter") {
+        // Set background
+        setBackground();
+        // Set avatar
+        setAvatar();
+        // Set headline
+        setHeadline("Putting out fires, one line of code at a time.");
+      } else {      
+        var description = "{{ site.description }}";
+        setHeadline(description);
+      }
+    </script>
   </header>

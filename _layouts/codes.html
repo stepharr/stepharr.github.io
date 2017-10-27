@@ -13,13 +13,13 @@
 
 <body id="top">
 
-  {% include header.html %}
+  {% include header.html %}  
   <!-- Main -->
   <div id="main">
-      <p>This is the podcast layout</p>
+      
     <article>
       <section>
-        <h3>Tech Podcasts</h3>
+        <h3>This is the Fullstack Firefighter page</h3>
         <ul>
           {% for podcast in site.data.tech-podcasts %}
           {{ podcast.inspect}}
@@ -34,8 +34,7 @@
       </section>
 
     </article>
-  </div>
-
+  </div>  
   {% include footer.html %} {% include scripts.html %}
 
 </body>

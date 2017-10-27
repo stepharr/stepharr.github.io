@@ -16,10 +16,10 @@
   {% include header.html %}
   <!-- Main -->
   <div id="main">
-      <p>This is the podcast layout</p>
+      
     <article>
       <section>
-        <h3>Tech Podcasts</h3>
+        <h3>This is the Pontificates page</h3>
         <ul>
           {% for podcast in site.data.tech-podcasts %}
           {{ podcast.inspect}}
@@ -35,7 +35,7 @@
 
     </article>
   </div>
-
+  {% include navigation.html %}
   {% include footer.html %} {% include scripts.html %}
 
 </body>
